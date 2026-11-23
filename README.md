@@ -93,7 +93,8 @@ In the Hospital Management System, it represents activities such as patient regi
 - Helps understand the logic of a process.
 - Clearly explains the steps involved in a use case.
 
-<img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/36c73c69-b0fc-4d8c-955d-6acbd254deb1" />
+<img width="1024" height="790" alt="image" src="https://github.com/user-attachments/assets/0f3388bb-c578-403a-949c-c3d48da39536" />
+
 
 
 ## 6. SEQUENCE DIAGRAM
@@ -109,7 +110,8 @@ It shows the order of messages exchanged between different objects to complete a
 - Shows how different objects communicate to complete a process.
 - Helps understand the functionality of the system.
 
-<img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/13ac2a9e-1984-4690-900c-05143d5fd2cf" />
+<img width="1024" height="630" alt="image" src="https://github.com/user-attachments/assets/c4560fde-dadd-445c-83bf-1805841d5971" />
+
 
 
 ## RESULT
