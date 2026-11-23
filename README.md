@@ -29,7 +29,8 @@ Use cases are represented by oval shapes, while actors are represented by stick 
 - Identifies the different actors and their responsibilities.
 - Describes the basic functionalities of the system.
 
-**[Paste Use Case Diagram Image Here]**
+<img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/addab0bf-15f5-4ee0-89f1-ea752a19a4ef" />
+
 
 ## 2. CLASS DIAGRAM
 
@@ -44,7 +45,8 @@ In the Hospital Management System, the main classes include Patient, Doctor, App
 - Shows relationships between different classes.
 - Helps developers understand and design the software architecture.
 
-**[Paste Class Diagram Image Here]**
+<img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/70dcb408-ae17-4442-b753-08030235bb48" />
+
 
 ## 3. COMMUNICATION DIAGRAM
 
@@ -59,7 +61,8 @@ It focuses on the relationships between objects and the messages exchanged to co
 - Helps understand how objects work together.
 - Describes the flow of messages within the system.
 
-**[Paste Communication Diagram Image Here]**
+<img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/45d81f2b-0852-4b7d-82f2-4c9841cdef61" />
+
 
 ## 4. PACKAGE DIAGRAM
 
@@ -74,7 +77,8 @@ It organizes related classes and components into packages to represent the overa
 - Improves the modular organization of the system.
 - Makes the system structure easier to understand and maintain.
 
-**[Paste Package Diagram Image Here]**
+<img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/e8003c02-414a-4a66-a306-f51ff2961a3d" />
+
 
 ## 5. ACTIVITY DIAGRAM
 
@@ -89,7 +93,8 @@ In the Hospital Management System, it represents activities such as patient regi
 - Helps understand the logic of a process.
 - Clearly explains the steps involved in a use case.
 
-**[Paste Activity Diagram Image Here]**
+<img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/36c73c69-b0fc-4d8c-955d-6acbd254deb1" />
+
 
 ## 6. SEQUENCE DIAGRAM
 
@@ -104,7 +109,8 @@ It shows the order of messages exchanged between different objects to complete a
 - Shows how different objects communicate to complete a process.
 - Helps understand the functionality of the system.
 
-**[Paste Sequence Diagram Image Here]**
+<img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/13ac2a9e-1984-4690-900c-05143d5fd2cf" />
+
 
 ## RESULT
 
